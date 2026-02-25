@@ -1,4 +1,4 @@
-package aula05;
+package aulas.aula05;
 // 1 - criar um arquivo chamado OlaMundo.jav
 // 2 - Implementar um programa Java que escreva na tela "Olá Mundo!"
 // 3 - Compilar e executar o programa
